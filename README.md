@@ -31,33 +31,43 @@ I transform complex datasets into actionable business insights through data anal
 
 ---
 
-### [COVID-19 Data Analysis](https://github.com/Itsellyjah/COVID19-Analysis)
+### [COVID-19 Cluster Analysis](https://github.com/Itsellyjah/COVID-19-Cluster-Analysis)
 
-**Tools & Technologies:** Python, Pandas, Matplotlib, Seaborn, Plotly
+<img align="right" width="400" src="https://raw.githubusercontent.com/Itsellyjah/COVID-19-Cluster-Analysis/main/visualization_outputs/cluster_distribution.png" alt="COVID-19 Analysis" onerror="this.style.display='none'"/>
+
+**Tools & Technologies:** Python, Pandas, Scikit-learn, Clustering Algorithms, Tableau
 
 **Key Insights:**
-- Identified critical infection rate patterns across different regions
-- Analyzed correlation between policy implementations and case reduction
-- Visualized vaccination progress and its impact on mortality rates
+- Identified four distinct clusters of regions based on COVID-19 response patterns
+- 73 countries classified as "High-Risk Regions" with high case and mortality rates
+- 141 countries showed patterns of healthcare system strain
+- The United States exhibited a unique high-mortality pattern despite resources
 
-**Business Impact:** Created visualizations that helped identify vulnerable populations and evaluate effectiveness of public health interventions.
+**Business Impact:** Created a framework for understanding pandemic response effectiveness across different regions, enabling targeted public health interventions.
 
-[View Project](https://github.com/Itsellyjah/COVID19-Analysis)
+[View Project](https://github.com/Itsellyjah/COVID-19-Cluster-Analysis)
+
+<br clear="right"/>
 
 ---
 
-### [Telco Customer Churn Analysis](https://github.com/Itsellyjah/Telco-Churn-Analysis)
+### [Telco Customer Churn Analysis](https://github.com/Itsellyjah/Telco-Customer-Churn)
 
-**Tools & Technologies:** Python, Scikit-learn, SQL, Tableau
+<img align="right" width="400" src="https://raw.githubusercontent.com/Itsellyjah/Telco-Customer-Churn/main/plots/churn_factors.png" alt="Telco Churn Analysis" onerror="this.style.display='none'"/>
+
+**Tools & Technologies:** Python, Scikit-learn, XGBoost, LightGBM, Tableau
 
 **Key Insights:**
-- Identified key factors driving customer churn with 82% prediction accuracy
-- Customers with month-to-month contracts have 3x higher churn rate
-- Developed customer segments based on churn risk profiles
+- Month-to-month contracts have significantly higher churn rates
+- Customers with higher monthly charges tend to churn more frequently
+- Security and tech support services are associated with lower churn rates
+- Tenure is a strong predictor of churn, with newer customers more likely to leave
 
-**Business Impact:** Recommended targeted retention strategies that could reduce churn by up to 15%, potentially saving $300K+ in annual revenue.
+**Business Impact:** Developed ML models with up to 82% accuracy for predicting customer churn, enabling proactive retention strategies that could reduce churn by 15%.
 
-[View Project](https://github.com/Itsellyjah/Telco-Churn-Analysis)
+[View Project](https://github.com/Itsellyjah/Telco-Customer-Churn)
+
+<br clear="right"/>
 
 ---
 
@@ -75,16 +85,18 @@ I transform complex datasets into actionable business insights through data anal
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat)
+![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=flat)
+![LightGBM](https://img.shields.io/badge/LightGBM-3499CD?style=flat)
 
 ### Analysis Techniques
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis
 - Statistical Modeling
+- Machine Learning Classification
+- Clustering Analysis
 - Customer Segmentation
 - Time Series Analysis
 - A/B Testing
-- Predictive Analytics
 
 ## 🔍 Current Focus
 I'm currently focused on developing data-driven strategies for businesses, with an emphasis on:
@@ -94,4 +106,4 @@ I'm currently focused on developing data-driven strategies for businesses, with 
 - Data storytelling for executive decision-making
 
 ## 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/your-linkedin) | [Email](mailto:your-email@example.com)
+[LinkedIn](www.linkedin.com/in/nur-ellyjah-soraya-80b6902a6) | [Email](ellyjahyahya@gmail.com)
