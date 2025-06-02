@@ -33,7 +33,7 @@
 
 ### 🛍️ [Retail Sales Event Strategy](https://github.com/Itsellyjah/Retail-Sales-Analysis)
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/Itsellyjah/Retail-Sales-Analysis/main/analysis/profitability_analysis/category_profitability.png" alt="Retail Analysis" onerror="this.style.display='none'"/>
+<img align="right" width="400" alt="retail-sales dashabord" src="https://github.com/user-attachments/assets/15daa031-f431-4620-9474-4318da2b7cda" alt="Retail Analysis" onerror="this.style.display='none'"/>
 
 **Technologies:** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -63,7 +63,7 @@
 
 ### 🦠 [COVID-19 Cluster Analysis](https://github.com/Itsellyjah/COVID-19-Cluster-Analysis)
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/Itsellyjah/COVID-19-Cluster-Analysis/main/visualization_outputs/cluster_distribution.png" alt="COVID-19 Analysis" onerror="this.style.display='none'"/>
+<img align="right" width="400" src="https://github.com/user-attachments/assets/b99a5af0-8249-4e91-b501-74e554113973" alt="COVID-19 Analysis" onerror="this.style.display='none'"/>
 
 **Technologies:** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -94,7 +94,7 @@
 
 ### 📱 [Telco Customer Churn Analysis](https://github.com/Itsellyjah/Telco-Customer-Churn)
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/Itsellyjah/Telco-Customer-Churn/main/plots/churn_factors.png" alt="Telco Churn Analysis" onerror="this.style.display='none'"/>
+<img align="right" width="400" src="https://github.com/user-attachments/assets/d0a0968f-79e4-4b42-a6ca-95f3b7ef6b2c" alt="Telco Churn Analysis" onerror="this.style.display='none'"/>
 
 **Technologies:** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
