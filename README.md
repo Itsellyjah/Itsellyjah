@@ -3,11 +3,11 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics%20|%20Business%20Intelligence%20|%20Visualization-blue?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics%20|%20Business%20Intelligence%20|%20Visualisation-blue?style=for-the-badge" alt="Focus"/>
 </p>
 
 <p align="center">
-  I transform complex datasets into actionable business insights through data analysis, visualization, and storytelling.
+  I transform complex datasets into actionable business insights through data analysis, visualisation, and storytelling.
 </p>
 
 <div align="center">
@@ -46,7 +46,7 @@
 - The West region generates $158 profit per customer (2.5x higher than Central)
 - 26.3% of orders with high discounts (>40%) generate negative profits
 
-**Business Impact:** Developed strategic recommendations that could increase profit margins by 15-20% through optimized event merchandise planning.
+**Business Impact:** Developed strategic recommendations that could increase profit margins by 15-20% through optimised event merchandise planning.
 
 <div align="center">
   <a href="https://github.com/Itsellyjah/Retail-Sales-Analysis">
@@ -159,7 +159,7 @@
   <tr>
     <td>✅ Time Series Analysis</td>
     <td>✅ A/B Testing</td>
-    <td>✅ Data Visualization</td>
+    <td>✅ Data Visualisation</td>
   </tr>
 </table>
 
